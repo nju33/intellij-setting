@@ -4,11 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/test/fooscala/build.sbt" timestamp="1487748522448" />
-      <file name="$USER_HOME$/test/fooscala/src/main/scala/Main.scala" timestamp="1487749287172">
-        <mark key="[" line="6" column="38" />
-        <mark key="]" line="6" column="36" />
-        <mark key="." line="6" column="36" />
-        <mark key="^" line="6" column="36" />
+      <file name="$USER_HOME$/test/fooscala/src/main/scala/Main.scala" timestamp="1487750443628">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="36" />
       </file>
     </filemarks>
     <jumps />
